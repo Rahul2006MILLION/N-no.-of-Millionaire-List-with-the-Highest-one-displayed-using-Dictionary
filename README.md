@@ -16,4 +16,13 @@ A beginner-friendly Python project that lets you input and compare the net worth
 ---
 
 ## 🧮 Example Output
-
+Enter the Number of input: 3
+Enter the name: Elon
+Enter the Networth $: 250
+Enter the name: Jeff
+Enter the Networth $: 190
+Enter the name: Bernard
+Enter the Networth $: 200
+{'Elon': 250, 'Jeff': 190, 'Bernard': 200}
+Heighest Networt... $$
+Elon holds the heighest networth of $250
